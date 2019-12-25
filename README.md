@@ -4,10 +4,10 @@ I used R language for the simulation of DNA methylation process, I reproduced th
 I mainly used PhaseR package for the simulation. 
 
 This is the graph for the linear system:
-![Linear system](/images/linear.png)
+![Linear system](linear.png)
 
 
 
 This is the graph for the Non-linear system
-![Non-Linear system](/images/Non-linear.png)
+![Non-Linear system](Non-linear.png)
 
